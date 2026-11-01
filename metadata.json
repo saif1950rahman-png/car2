@@ -1,0 +1,6 @@
+{
+  "name": "Turbo Shine Detailing",
+  "description": "Premium mobile car detailing and vehicle valeting brought straight to your door across Greater Manchester and the North West.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
